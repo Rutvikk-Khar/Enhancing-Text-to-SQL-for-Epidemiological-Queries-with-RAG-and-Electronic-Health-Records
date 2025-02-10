@@ -2,8 +2,7 @@
 
 This repository contains the code of the following paper:
 
-Please find the Preprint here: Ziletti and D'Ambrosi, https://arxiv.org/abs/2403.09226    
-This paper is accepted at NAACL 2024 Clinical NLP Workshop (https://clinical-nlp.github.io/2024/)   
+Please find the Preprint here: Ziletti and D'Ambrosi, https://arxiv.org/abs/2403.09226     
 
 Here is a summary workflow of the procedure:
 ![workflow_for_github.png](img/workflow.png)
@@ -17,8 +16,6 @@ The labelled question-SQL pairs are in the file `text2sql_epi_dataset_omop.xlsx`
 
 
 ## Installation
-We used Python 3.11 in our experiments.  
-
 Install latest version from the master branch on GitHub by:
 ```
 git clone <GITHUB-URL>
